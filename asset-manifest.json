@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/tripmate/static/css/main.e6c13ad2.css",
+    "main.js": "/tripmate/static/js/main.d1ee71a6.js",
+    "static/js/453.86dfc89a.chunk.js": "/tripmate/static/js/453.86dfc89a.chunk.js",
+    "index.html": "/tripmate/index.html",
+    "main.e6c13ad2.css.map": "/tripmate/static/css/main.e6c13ad2.css.map",
+    "main.d1ee71a6.js.map": "/tripmate/static/js/main.d1ee71a6.js.map",
+    "453.86dfc89a.chunk.js.map": "/tripmate/static/js/453.86dfc89a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.d1ee71a6.js"
+  ]
+}
